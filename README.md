@@ -410,8 +410,7 @@ curl -k -X POST "https://<target>/webconsole/webpages/auth/" \
 ---
 
 **DONATE:**
-USDT trc20: TQZjkoN69XKgyJyoe4W1eoAUPmEyWPB6XJ
-LTC: ltc1qlzd44jmsyhe2yg6up23jha60pu2hzsp5ql2yvk
+USDT trc20: TQZjkoN69XKgyJyoe4W1eoAUPmEyWPB6XJ  ||| LTC: ltc1qlzd44jmsyhe2yg6up23jha60pu2hzsp5ql2yvk
 
 If you want 0day/1day: https://t.me/what_time_is_it_1337_or_420
 ---
